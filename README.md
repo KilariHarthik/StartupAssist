@@ -8,6 +8,8 @@ This project is aimed at assisting startups with information about government sc
 
 [https://startupassist.streamlit.app/](https://startupassist.streamlit.app/)
 
+Download raw and view demo here:
+
 [https://github.com/KilariHarthik/StartupAssist/blob/main/Screen%20Recording%202024-03-15%20at%2013.10.39.mov](https://github.com/KilariHarthik/StartupAssist/blob/main/Screen%20Recording%202024-03-15%20at%2013.10.39.mov)
 
 
