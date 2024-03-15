@@ -1,12 +1,12 @@
 # StartupAssist
 
-## Project: Startup Assistant Chatbot
-
-### Find the demo here: https://startupassist.streamlit.app/
-
 ### Overview
 
-This project is aimed at assisting startups with information about government schemes using a chatbot interface. The chatbot is built using the Assistant API and is integrated into a Streamlit web application.
+This project is aimed at assisting startups with information about government schemes using a chatbot interface. The chatbot is built using the Assistant API and is integrated into a streamlit web application.
+
+### Find the demo here: 
+
+[https://startupassist.streamlit.app/](https://startupassist.streamlit.app/)
 
 ### File Structure
 
